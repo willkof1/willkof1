@@ -10,8 +10,9 @@
 - 😄 Pronouns: ... Will ⚡(rs)
 
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willkof1&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willkof1&layout=compact&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willkof1&show_icons=true&theme=tokyonight&line_height=40&hide=css"/>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willkof1&layout=compact&theme=tokyonight&line_height=40&hide=css"/>
 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](william.dias@protonmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrobsonnunesdias/)
