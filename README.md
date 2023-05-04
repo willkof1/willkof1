@@ -9,10 +9,8 @@
 - 📫 How to reach me: ... email: <will.kof1@gmail.com>
 - 😄 Pronouns: ... Will ⚡(rs)
 
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willkof1&show_icons=true&theme=tokyonight&line_height=40&hide=css"/>
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willkof1&layout=compact&theme=tokyonight&line_height=40&hide=css"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willkof1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willkof1&layout=compact&langs_count=7&theme=cobalt"/>
 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](william.dias@protonmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamrobsonnunesdias/)
